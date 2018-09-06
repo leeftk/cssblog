@@ -1,0 +1,47 @@
+body{
+
+	border: 30px solid #E7E9E2;
+	margin: 10%;
+	padding: 2px; 
+	font-size: 18px;
+	font-family: 'Cabin Condensed', sans-serif;
+
+
+}
+
+.islam{
+
+		margin: 8% 5% 5% 5%;
+		border-bottom: 1px solid;
+		padding-bottom: 50px;
+
+}
+
+h1{
+	float:left;
+	margin-left: 5%;
+	margin-top: 50px;
+	color:#83906A;
+	font-family: "Arial Black", Gadget, sans-serif;
+	margin-bottom: 5px;
+
+}
+
+h3{
+	margin-left:3%;
+	margin-top: 50px;
+	color:#B8143A;
+	font-weight: 50;
+	font-size: 15px;
+	font-family: 'Righteous', cursive;
+	letter-spacing: 6px;
+}
+
+#bacon{
+	margin-top: 10%;
+	margin-left: 12%;
+	margin-right:10%;
+	border-left: 10px solid #340913;
+	padding-left:10px;
+
+}
